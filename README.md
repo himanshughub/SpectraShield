@@ -2,6 +2,22 @@
 
 <img src="spectra-shield-logo.svg" alt="Screenshot of the tool" width="50%">
 
+## About Spectra_Shield:
+Spectra_Shield is an advanced open-source threat hunting tool designed to enhance
+threat detection capabilities in cybersecurity operations. It is specifically
+engineered to cover loopholes of CrowdStrike where its threat intelligence
+database is not comprehensive to find various known malicious processes.
+By leveraging multiple threat intelligence sources, including VirusTotal API,
+Abuse.ch API, and custom threat intelligence databases, Spectra_Shield provides
+a comprehensive solution for identifying malicious processes executed on machines,
+filling critical gaps in existing security infrastructures.
+
+## Key Features:
+- Integration with VirusTotal API for extensive threat analysis
+- Utilization of Abuse.ch API for up-to-date threat intelligence
+- Custom hash list investigation for tailored threat detection
+- Full scan capability combining all available investigation methods
+
 ## 📚 Library Versions
 - jq: jq-1.6
 - csv: 1.0

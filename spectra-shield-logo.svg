@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Shield Base -->
+  <path d="M100 20 L180 60 L180 120 C180 160 100 180 100 180 C100 180 20 160 20 120 L20 60 L100 20Z" 
+        fill="#2C3E50" 
+        stroke="#34495E" 
+        stroke-width="2"/>
+  
+  <!-- Digital Circuit Pattern -->
+  <path d="M40 85
+           L60 85
+           L60 95
+           L75 95
+           L75 80
+           L65 80
+           M75 95
+           L75 110
+           L60 110
+           M60 110
+           L60 120"
+        fill="none"
+        stroke="#3498DB"
+        stroke-width="2"/>
+        
+  <!-- Lock Symbol -->
+  <path d="M55 90
+           Q55 80, 65 80
+           Q75 80, 75 90
+           L75 100
+           L55 100
+           L55 90"
+        fill="none"
+        stroke="#ECF0F1"
+        stroke-width="2"/>
+  
+  <!-- Lock Body -->
+  <rect x="52" y="95" width="26" height="20" 
+        fill="#34495E" 
+        stroke="#ECF0F1" 
+        stroke-width="1.5"/>
+  
+  <!-- Binary Numbers -->
+  <text x="45" y="75" 
+        fill="#E74C3C" 
+        font-family="monospace" 
+        font-size="8">
+    1 0 1
+  </text>
+  <text x="80" y="105" 
+        fill="#E74C3C" 
+        font-family="monospace" 
+        font-size="8">
+    0 1
+  </text>
+  
+  <!-- Spectrum Bands -->
+  <path d="M100 40 L160 70 L160 110 C160 140 100 160 100 160" 
+        fill="none" 
+        stroke="#3498DB" 
+        stroke-width="6"
+        stroke-linecap="round"/>
+  
+  <path d="M100 50 L140 75 L140 105 C140 130 100 145 100 145" 
+        fill="none" 
+        stroke="#9B59B6" 
+        stroke-width="6"
+        stroke-linecap="round"/>
+        
+  <path d="M100 60 L120 80 L120 100 C120 120 100 130 100 130" 
+        fill="none" 
+        stroke="#E74C3C" 
+        stroke-width="6"
+        stroke-linecap="round"/>
+  
+  <!-- Center Dot -->
+  <circle cx="100" cy="90" r="8" fill="#ECF0F1"/>
+  
+  <!-- Key Hole -->
+  <circle cx="65" cy="105" r="3" fill="#3498DB"/>
+</svg>

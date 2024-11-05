@@ -26,10 +26,13 @@ Navigate to the Spectra_Shield directory and run:
 
 ## Table of Contents
 
-1. Query SIEM
-2. Export Results
-3. File Placement
-4. Run the Script
+🔍 1. Query SIEM
+
+📥 2. Export Results
+
+📁 3. File Placement
+
+▶️  4. Run the Script
 
 
 ## Usage Instructions
@@ -78,21 +81,23 @@ Follow the prompts:
 Enter your choice (1-5): X
 Enter the full path to your CSV file: CrowdStrike_exported_data.csv
 
-# Automated Process
+## Automated Process
 After completing these steps, the script will automatically:
 
 - Check each hash from the CSV file against the threat intelligence platform
 - Collect and analyze the results
 - Save the findings to SpectraShield_Dashboard.xlsx in the Spectra Shield directory
 
-# Excluding Results
+## Add exclusions or exceptions to reduce false positives from being updated in the dashboard:
+
 You can exclude or make exceptions for specific hashes/process names from appearing in your results dashboard.
 To add exclusions:
 
-Navigate to the data/ directory
+- Navigate to the data/ directory
 
-Add exclusions to the following files:
-
-list_of_false_positive_hashes.txt: For excluding specific hashes
-list_of_false_positive_process_name.txt: For excluding specific process names
+- Add exclusions to the following files:
+  
+**list_of_false_positive_hashes.txt: For excluding specific hashes**
+  
+**list_of_false_positive_process_name.txt: For excluding specific process names**
 

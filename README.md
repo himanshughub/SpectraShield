@@ -90,8 +90,7 @@ python3 Spectra_Shield.py --api-keys 111323455342255322
 
 > **Note:**
 
-- 111323455342255322 is a dummy API key. You can obtain a VT API key by creating a free account on VirusTotal
-[VirusTotal](https://www.virustotal.com/gui/home/upload)
+- 111323455342255322 is a dummy API key. You can obtain a VT API key by creating a free account on [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 Follow the prompts:
 

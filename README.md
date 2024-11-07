@@ -114,7 +114,7 @@ To add exclusions:
 
 - Add exclusions to the following files:
   
-**list_of_false_positive_hashes.txt: For excluding specific hashes**
-  
-**list_of_false_positive_process_name.txt: For excluding specific process names**
+<mark>list_of_false_positive_hashes.txt</mark>: For excluding specific hashes
+
+<mark>list_of_false_positive_process_name.txt</mark>: For excluding specific process names
 

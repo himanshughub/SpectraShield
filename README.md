@@ -122,7 +122,7 @@ To add exclusions:
 
 <mark>list_of_false_positive_process_name.txt</mark>: For excluding specific process names from dashboard results
 
-## What to expect in future version of this software:
+## What to expect in future version of this tool...
 
 - Adding more threat intelligence platform APIs integration such as Any.run, ctx.io, AlienVault, malshare.com, etc.
 - Increasing the performace by using parallel processing.

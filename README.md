@@ -62,8 +62,7 @@ Run the following CrowdStrike advanced SIEM query:
 | in(aid, values=["*"], ignoreCase=true)
 | groupBy(SHA256HashData, function=collect([SHA256HashData, FileName, ComputerName, LocalAddressIP4, aid, cid, FilePath]), limit=max)
  ```
-
-![CrowdStrike_query_snap](https://github.com/user-attachments/assets/697f08d9-4d61-46e8-aac2-6e3ec314debe)
+![CrowdStrike_query_snap](https://github.com/user-attachments/assets/abca40e9-2668-4362-8101-58eae76f212b)
 
 > **Important Notes:**
 

@@ -58,7 +58,7 @@ Navigate to the Spectra_Shield directory and run:
 Run the following CrowdStrike advanced SIEM query:
 
  ```bash
-#repo=base_sensor cid="XXXXXXXXXXXXXXXXXXXX"
+#repo="base_sensor" cid="XXXXXXXXXXXXXXXXXXXX"
 | in(aid, values=["*"], ignoreCase=true)
 | groupBy(SHA256HashData, function=collect([SHA256HashData, FileName, ComputerName, LocalAddressIP4, aid, cid, FilePath]), limit=max)
  ```

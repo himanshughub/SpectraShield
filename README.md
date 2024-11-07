@@ -65,7 +65,7 @@ Run the following CrowdStrike advanced SIEM query:
 
 > **Important Notes:**
 
-- Replace XXXXXXXXXXXXXXXXXXXX with your actual CID ID
+- Replace XXXXXXXXXXXXXXXXXXXX with your CrowdStrike CID ID
 - CrowdStrike has a maximum limit of 20,000 results per query
 - The query is designed to look for unique hash values to minimize duplicate results
 - For environments with 50+ computers:

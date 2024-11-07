@@ -118,9 +118,9 @@ To add exclusions:
 
 - Add exclusions to the following files:
   
-<mark>list_of_false_positive_hashes.txt</mark>: For excluding specific hashes
+<mark>list_of_false_positive_hashes.txt</mark>: For excluding specific hashes from dashboard results
 
-<mark>list_of_false_positive_process_name.txt</mark>: For excluding specific process names
+<mark>list_of_false_positive_process_name.txt</mark>: For excluding specific process names from dashboard results
 
 ## Citation
 If you found this repository helpful, please cite my Github repository link & name in your post :)

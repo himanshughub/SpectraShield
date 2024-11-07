@@ -95,6 +95,7 @@ python3 Spectra_Shield.py --api-keys 111323455342255322
 Follow the prompts:
 
 Enter your choice (1-5): X
+
 Enter the full path to your CSV file, for example: <mark>CrowdStrike_exported_data.csv</mark>
 
 ## Automated Process

@@ -139,4 +139,5 @@ If you found this repository helpful, please cite my Github repository link & na
 
 ## Buy me a coffee
 
-## [PayPal](paypal.me/himanshuk9987)
+## [PayPal](https://paypal.me/himanshuk9987?country.x=US&locale.x=en_US)
+

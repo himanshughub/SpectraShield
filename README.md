@@ -122,3 +122,8 @@ To add exclusions:
 
 <mark>list_of_false_positive_process_name.txt</mark>: For excluding specific process names
 
+## Citation
+If you found this repository helpful, please cite Github repository link & name in your post :)
+<mark> Repository Link:</mark> [SpectraShield](https://github.com/himanshughub/SpectraShield/)
+<mark> Author name: </mark> Himanshu Kumar
+<mark> LinkedIn Profile</mark>: [LinkedIn](https://www.linkedin.com/in/himanshuk8)

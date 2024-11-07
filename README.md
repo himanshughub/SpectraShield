@@ -102,7 +102,7 @@ After completing these steps, the script will automatically:
 
 - Check each hash from the CSV file against the threat intelligence platform
 - Collect and analyze the results
-- Save the findings to "SpectraShield_Dashboard.xlsx" in the Spectra Shield directory
+- Save the findings to 'SpectraShield_Dashboard.xlsx' in the Spectra Shield directory
 
 ## Add exclusions or exceptions to reduce false positives from being updated in the dashboard:
 

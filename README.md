@@ -63,6 +63,8 @@ Run the following CrowdStrike advanced SIEM query:
 | groupBy(SHA256HashData, function=collect([SHA256HashData, FileName, ComputerName, LocalAddressIP4, aid, cid, FilePath]), limit=max)
  ```
 
+![CrowdStrike_query_snap](https://github.com/user-attachments/assets/697f08d9-4d61-46e8-aac2-6e3ec314debe)
+
 > **Important Notes:**
 
 - Replace XXXXXXXXXXXXXXXXXXXX with your CrowdStrike CID ID

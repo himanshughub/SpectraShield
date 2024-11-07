@@ -123,7 +123,7 @@ To add exclusions:
 <mark>list_of_false_positive_process_name.txt</mark>: For excluding specific process names
 
 ## Citation
-If you found this repository helpful, please cite Github repository link & name in your post :)
+If you found this repository helpful, please cite my Github repository link & name in your post :)
 
 <mark> Repository Link:</mark> [SpectraShield](https://github.com/himanshughub/SpectraShield/)
 

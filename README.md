@@ -138,6 +138,6 @@ If you found this repository helpful, please cite my Github repository link & na
 <mark> LinkedIn Profile</mark>: [LinkedIn](https://www.linkedin.com/in/himanshuk8)
 
 ## Buy me a coffee
-
-## [PayPal](https://paypal.me/himanshuk9987?country.x=US&locale.x=en_US)
+![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg)
+## [My PayPal ID:himanshuk9987](https://paypal.me/himanshuk9987?country.x=US&locale.x=en_US)
 

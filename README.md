@@ -2,7 +2,7 @@
 
 <img src="spectra-shield-logo.svg" alt="Screenshot of the tool" width="50%">
 
-## About Spectra_Shield:
+## About Spectra Shield:
 Spectra_Shield is an advanced open-source threat hunting tool designed to enhance
 threat detection capabilities in cybersecurity operations. It is specifically
 engineered to cover loopholes of CrowdStrike where its threat intelligence

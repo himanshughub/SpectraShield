@@ -1,4 +1,4 @@
-# Spectra Shield
+# Spectra Shield (version 1.0)
 
 <img src="spectra-shield-logo.svg" alt="Screenshot of the tool" width="50%">
 
@@ -121,6 +121,12 @@ To add exclusions:
 <mark>list_of_false_positive_hashes.txt</mark>: For excluding specific hashes from dashboard results
 
 <mark>list_of_false_positive_process_name.txt</mark>: For excluding specific process names from dashboard results
+
+## What to expect in future version of this software:
+
+- Adding more threat intelligence platform APIs integration such as Any.run, ctx.io, AlienVault, malshare.com, etc.
+- Increasing the performace by using parallel processing.
+- Adding AI and ML capabilities to provide insights on suspicious processes running.
 
 ## Citation
 If you found this repository helpful, please cite my Github repository link & name in your post :)

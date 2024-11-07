@@ -130,12 +130,13 @@ To add exclusions:
 
 ## Citation
 If you found this repository helpful, please cite my Github repository link & name in your post :)
-
+```bash
 <mark> Repository Link:</mark> [SpectraShield](https://github.com/himanshughub/SpectraShield/)
 
 <mark> Author name: </mark> Himanshu Kumar
 
 <mark> LinkedIn Profile</mark>: [LinkedIn](https://www.linkedin.com/in/himanshuk8)
+```
 
 ## Buy me a coffee if you liked this project ☕
 

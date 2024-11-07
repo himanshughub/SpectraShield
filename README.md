@@ -77,7 +77,7 @@ Run the following CrowdStrike advanced SIEM query:
 **Step 2: Export Results**
 
 After running the query, export the results in CSV format
-Name the file exactly as: CrowdStrike_exported_data.csv
+Name the file for example as: <mark>CrowdStrike_exported_data.csv</mark>
 
 **Step 3: File Placement**
 Place the exported CSV file in the Spectra_Shield directory.
@@ -95,7 +95,7 @@ python3 Spectra_Shield.py --api-keys 111323455342255322
 Follow the prompts:
 
 Enter your choice (1-5): X
-Enter the full path to your CSV file: CrowdStrike_exported_data.csv
+Enter the full path to your CSV file, for example: <mark>CrowdStrike_exported_data.csv</mark>
 
 ## Automated Process
 After completing these steps, the script will automatically:

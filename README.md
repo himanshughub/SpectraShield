@@ -1,11 +1,11 @@
-
-# Spectra Shield - Threat Hunting Tool (v1.0)
 [zip]: https://github.com/himanshughub/SpectraShield/archive/refs/heads/main.zip
 
-<img src="spectra-shield-logo.svg" alt="Screenshot of the tool" width="50%">
+# Spectra Shield - Threat Hunting Tool (v1.0)
 [![Download SpectraShield.zip](https://img.shields.io/badge/download-KeePassRDP.zip-blue?style=flat-square&color=yellow)][zip]
 [![Downloads total](https://img.shields.io/github/downloads/himanshughub/SpectraShield/total?style=flat-square&color=blueviolet&logo=github)]
 [![License](https://github.com/himanshughub/SpectraShield/blob/main/LICENSE)](COPYING)
+
+<img src="spectra-shield-logo.svg" alt="Screenshot of the tool" width="50%">
 
 ## About Spectra Shield:
 Spectra_Shield is an advanced open-source threat hunting tool designed to enhance

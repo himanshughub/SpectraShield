@@ -1,5 +1,5 @@
 
-#🛡️ Spectra Shield - Threat Hunting Tool (v1.0) 🛡️
+🛡️ **Spectra Shield - Threat Hunting Tool (v1.0)** 🛡️
 
 <img src="spectra-shield-logo.svg" alt="Screenshot of the tool" width="50%">
 

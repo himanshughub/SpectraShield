@@ -138,7 +138,7 @@ Author LinkedIn Profile: https://www.linkedin.com/in/himanshuk8
 
 ## Buy me a coffee if you liked this project ☕
 
+[![Send Money](https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg)](https://paypal.me/himanshuk9987?country.x=US&locale.x=en_US)
 
-[![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/himanshuk9987?country.x=US&locale.x=en_US)
 
 

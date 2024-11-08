@@ -4,7 +4,7 @@
 [![Download SpectraShield.zip](https://img.shields.io/badge/download-SpectraShield.zip-blue?style=flat-square&color=yellow)](https://github.com/himanshughub/SpectraShield/archive/refs/heads/main.zip)
 [![Release Version](https://img.shields.io/github/v/release/himanshughub/SpectraShield.svg)](https://github.com/himanshughub/SpectraShield/releases/tag/SpectraShield_v1.0)
 [![Downloads total](https://img.shields.io/github/downloads/himanshughub/SpectraShield/total?style=flat-square&color=blueviolet&logo=github)](https://github.com/himanshughub/SpectraShield/releases)
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/himanshughub/SpectraShield/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue)](https://github.com/himanshughub/SpectraShield/blob/main/LICENSE)
 
 <img src="spectra-shield-logo.svg" alt="Screenshot of the tool" width="50%">
 

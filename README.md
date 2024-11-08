@@ -126,7 +126,7 @@ To add exclusions:
 
 - Adding more threat intelligence platform APIs integration such as Any.run, ctx.io, AlienVault, malshare.com, etc.
 - Increasing the performace by using parallel processing.
-- Adding AI and ML capabilities to provide insights on suspicious processes running.
+- Adding AI and ML capabilities to provide insights on processes that conflict with the business environment, such as third-party VPNs, gaming applications, forensics tools, pentesting tools and more.
 
 ## Citation
 If you found this repository helpful, please cite my Github repository link & name in your post :)

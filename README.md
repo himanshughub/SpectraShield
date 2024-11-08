@@ -106,7 +106,7 @@ Follow the prompts:
 
 Enter your choice (1-5): X
 
-Enter the full path to your CSV file, for example: <mark>CrowdStrike_exported_data.csv</mark>
+Enter the full path to your CSV file which you have downloaded from the CrowdStrike, for example: <mark>CrowdStrike_exported_data.csv</mark>
 
 ## Automated Process
 After completing these steps, the script will automatically:

@@ -25,7 +25,7 @@ filling critical gaps in existing security infrastructures.
 - Custom hash list investigation for tailored threat detection
 - Full scan capability combining all available investigation methods
 
-## Citation
+## Citation:
 If you found this repository helpful, please cite my Github repository link & name in your post :)
 ```bash
 Repository Link: https://github.com/himanshughub/SpectraShield/
@@ -33,10 +33,13 @@ Author name:Himanshu Kumar
 Author LinkedIn Profile: https://www.linkedin.com/in/himanshuk8
 ```
 
+
 **Demo 1: Execution of threat hunting tool by checking hashes against Open Source Threat Intelligence via API integration**
+
 ![Spectra_Shield_recording_gif](https://github.com/himanshughub/SpectraShield/raw/main/Screenshots/Spectra_Shield_recording.gif)
 
 **Demo 2: Results exported to Excel spreadsheet by the tool**
+
 ![Spectra_Shield_excel_Sheet_view_recording_gif](https://github.com/himanshughub/SpectraShield/blob/main/Screenshots/Spectra_Shield_excel_Sheet_view_recording.gif)
 
 ## 📚 Library Versions

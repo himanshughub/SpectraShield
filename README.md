@@ -33,7 +33,7 @@ Author name:Himanshu Kumar
 Author LinkedIn Profile: https://www.linkedin.com/in/himanshuk8
 ```
 
-
+## Demos:
 **Demo 1: Execution of threat hunting tool by checking hashes against Open Source Threat Intelligence via API integration**
 
 ![Spectra_Shield_recording_gif](https://github.com/himanshughub/SpectraShield/raw/main/Screenshots/Spectra_Shield_recording.gif)

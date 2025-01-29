@@ -26,6 +26,7 @@ filling critical gaps in existing security infrastructures.
 - Full scan capability combining all available investigation methods
 
 ![Spectra_Shield_recording_gif](https://github.com/himanshughub/SpectraShield/raw/main/Screenshots/Spectra_Shield_recording.gif)
+![Spectra_Shield_excel_Sheet_view_recording_gif](https://github.com/himanshughub/SpectraShield/blob/main/Screenshots/Spectra_Shield_excel_Sheet_view_recording.gif)
 
 ## 📚 Library Versions
 - jq: jq-1.6

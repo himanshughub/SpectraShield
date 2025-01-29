@@ -25,8 +25,10 @@ filling critical gaps in existing security infrastructures.
 - Custom hash list investigation for tailored threat detection
 - Full scan capability combining all available investigation methods
 
+**Demo 1: Execution of threat hunting by checking hashes against Open Source Threat Intelligence via API integration**
 ![Spectra_Shield_recording_gif](https://github.com/himanshughub/SpectraShield/raw/main/Screenshots/Spectra_Shield_recording.gif)
 
+**Demo 2: Results exported to Excel spreadsheet by the tool**
 ![Spectra_Shield_excel_Sheet_view_recording_gif](https://github.com/himanshughub/SpectraShield/blob/main/Screenshots/Spectra_Shield_excel_Sheet_view_recording.gif)
 
 ## 📚 Library Versions

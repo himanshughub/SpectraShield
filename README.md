@@ -25,7 +25,7 @@ filling critical gaps in existing security infrastructures.
 - Custom hash list investigation for tailored threat detection
 - Full scan capability combining all available investigation methods
 
-![Spectra_Shield_recording_gif](https://www.github.com/himanshughub/SpectraShield/blob/main/Screenshots/Spectra_Shield_recording.gif)
+![Spectra_Shield_recording_gif](https://github.com/user-attachments/assets/96ccc59e-7686-492f-b04a-22adcec1caea)
 
 ## 📚 Library Versions
 - jq: jq-1.6

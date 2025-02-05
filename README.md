@@ -42,7 +42,7 @@ Author LinkedIn Profile: https://www.linkedin.com/in/himanshuk8
 
 ![Spectra_Shield_excel_Sheet_view_recording_gif](https://github.com/himanshughub/SpectraShield/blob/main/Screenshots/Spectra_Shield_excel_Sheet_view_recording.gif)
 
-## 📚 Library Versions
+## 📚 Library Dependencies
 - jq: jq-1.6
 - csv: 1.0
 - json: 2.0.9

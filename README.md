@@ -61,6 +61,9 @@ Navigate to the Spectra_Shield directory and run:
     sudo make
  ```
 
+![make_file_run_gif](https://github.com/himanshughub/SpectraShield/blob/main/Screenshots/make_file_run.gif)
+
+
 ⚙️ This command will automatically set up all required libraries with their specified versions.
 
 
